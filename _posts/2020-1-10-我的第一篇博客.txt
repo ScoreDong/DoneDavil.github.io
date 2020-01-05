@@ -1,0 +1,10 @@
+---
+layout: post
+title: 我的第一篇博客
+date: 2017-09-12 13:32:20 +0300
+description: 测试我的博客是否成功
+img: i-rest.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Holidays, Hawaii]
+---
+人生三大错觉:手机震动,有人敲门,她喜欢你.
